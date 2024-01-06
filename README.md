@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ethan Tan
+I'm Ethan
 =================================================================================================================================
 
 I am a undergraduate student studying computer science with a passion in game development. I am a competitve gamer. I like going to the gym.
